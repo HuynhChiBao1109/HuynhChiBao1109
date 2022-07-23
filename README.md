@@ -1,4 +1,4 @@
-<img src = "https://acegif.com/wp-content/gif/outerspace-6.gif" />
+<img src="https://acegif.com/wp-content/gif/outerspace-6.gif" />
 
 <h1 align="center">Hi 👋, I'm Huỳnh Chí Bảo</h1>
 <h3 align="center">A Fresher Back-End Developer</h3>
