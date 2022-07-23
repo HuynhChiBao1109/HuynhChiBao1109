@@ -1,4 +1,4 @@
-<img src="https://acegif.com/wp-content/gif/outerspace-6.gif" />
+<img src="https://i.pinimg.com/originals/20/20/bf/2020bf44ed994d07bdc2196540b3bbd3.gif" />
 
 <h1 align="center">Hi 👋, I'm Huỳnh Chí Bảo</h1>
 <h3 align="center">A Fresher Back-End Developer</h3>
