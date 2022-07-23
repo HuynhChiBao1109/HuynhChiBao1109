@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/20/20/bf/2020bf44ed994d07bdc2196540b3bbd3.gif" width="900" height="450" style="float:center"/>
+<img src="https://i.pinimg.com/originals/20/20/bf/2020bf44ed994d07bdc2196540b3bbd3.gif" width="850" height="450" style="float:center"/>
 
 <h1 align="center">Hi 👋, I'm Huỳnh Chí Bảo</h1>
 <h3 align="center">A Fresher Back-End Developer</h3>
