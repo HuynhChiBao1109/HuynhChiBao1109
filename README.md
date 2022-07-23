@@ -1,3 +1,5 @@
+<img src = "https://i.pinimg.com/originals/36/81/e1/3681e175d1b498ca817625ccd53406eb.gif" />
+
 <h1 align="center">Hi 👋, I'm Huỳnh Chí Bảo</h1>
 <h3 align="center">A Fresher Back-End Developer</h3>
 
