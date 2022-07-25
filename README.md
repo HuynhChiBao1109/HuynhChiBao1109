@@ -10,7 +10,7 @@ With curiosity and change I want to create websites that bring good user experie
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/huynhchibao11)
 
-<p><img width="100x" height="40px" src="https://play-lh.googleusercontent.com/rFIOt4fDSCgJh_FkHU2qP8YiZUUhfVoKoNfQFbPEM-Wl8zuyuwn7vzkEx_XMh5B6FfO3"> :0825999871</p>
+<p><img width="100x" height="50px" src="https://play-lh.googleusercontent.com/rFIOt4fDSCgJh_FkHU2qP8YiZUUhfVoKoNfQFbPEM-Wl8zuyuwn7vzkEx_XMh5B6FfO3"> :0825999871</p>
 
 <p><img width="100x" height="40px" src="https://cdn.sforum.vn/sforum/wp-content/uploads/2021/09/newgmaillogo.0.jpg">: baohc110902@gmail.com</p>
 
