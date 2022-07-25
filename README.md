@@ -7,8 +7,8 @@ I'm a student at FPT university HCM
 
 With curiosity and change I want to create websites that bring good user experience and interface
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/huynhchibao11)
+## 🌐Contact
+
 
 <p><img width="80x" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zalo_logo_2019.svg/800px-Zalo_logo_2019.svg.png"> 0825999871</p>
 
