@@ -1,9 +1,9 @@
 <img src="https://acegif.com/wp-content/gif/outerspace-58.gif" width="850" height="450" style="float:center"/>
 
 # 💫About Me :
-I'm a fresher back-end developer
+I'm a fresher back-end developer,
 I'm a student at FPT university HCM
-With curiosity and change I want to create websites that bring good user experience and interface
+,With curiosity and change I want to create websites that bring good user experience and interface
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/huynhchibao11) 
