@@ -1,14 +1,6 @@
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="850" height="450" style="float:center"/>
 
-# 💫About Me :
-I'm a fresher back-end developer
-
-I'm a student at FPT university HCM
-
-With curiosity and change I want to create websites that bring good user experience and interface
-
 ## 🌐Contact
-
 
 <p><img width="80x" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zalo_logo_2019.svg/800px-Zalo_logo_2019.svg.png"> 0825999871</p>
 
