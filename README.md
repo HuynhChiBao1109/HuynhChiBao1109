@@ -10,10 +10,7 @@ Languages: JavaScript, TypeScript, Golang
 Frameworks: Nest.js, Node.js, React.js, Gin
 Databases: PostgreSQL, MySQL, MongoDB
 Others: Docker, GitHub Actions, CI/CD, Nginx, Ubuntu, AWS
-🏆 My Contributions
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=HuynhChiBao1109&theme=radical&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph" alt="GitHub Contribution Graph"/> </div>
-🌐 Let's Connect!
-🌟 Feel free to explore my repositories and get in touch:
+
 📧 Email: baohc110902@example.com
 💼 LinkedIn: HuynhChiBao
 🌐 Website: https://baohc.info.vn
