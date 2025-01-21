@@ -3,10 +3,10 @@
 🌟 Profile Insights
 
 🛠️ Tools & Technologies
-Languages: JavaScript, TypeScript, Golang
-Frameworks: Nest.js, Node.js, React.js, Gin
-Databases: PostgreSQL, MySQL, MongoDB
-Others: Docker, GitHub Actions, CI/CD, Nginx, Ubuntu, AWS
+- Languages: JavaScript, TypeScript, Golang
+- Frameworks: Nest.js, Node.js, React.js, Gin
+- Databases: PostgreSQL, MySQL, MongoDB
+- Others: Docker, GitHub Actions, CI/CD, Nginx, Ubuntu, AWS
 
 📧 Email: baohc110902@example.com
 💼 LinkedIn: HuynhChiBao
