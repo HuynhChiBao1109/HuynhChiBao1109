@@ -8,6 +8,6 @@
 - Databases: PostgreSQL, MySQL, MongoDB
 - Others: Docker, GitHub Actions, CI/CD, Nginx, Ubuntu, AWS
 
-📧 Email: baohc110902@example.com
+📧 Email: baohc110902@gmail.com
 💼 LinkedIn: HuynhChiBao
 🌐 Website: https://baohc.info.vn
