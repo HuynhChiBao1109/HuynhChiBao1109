@@ -62,13 +62,10 @@
 
 <br>
 
-### 💻 Languages & Technologies
+### 💻 Most Used Languages
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhChiBao1109&layout=compact&langs_count=10&theme=github_dark&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="./generated/languages.svg" alt="Most Used Languages" />
 </p>
 
 <br>
