@@ -62,6 +62,17 @@
 
 <br>
 
+### 💻 Languages & Technologies
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhChiBao1109&layout=compact&langs_count=10&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+<br>
+
 <div align="center">
 
   <h3>⚡ Developer Activity</h3>
