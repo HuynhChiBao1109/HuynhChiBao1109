@@ -24,12 +24,11 @@
 
 <div align="center">
 
-  <h3>🔥 GitHub Activity</h3>
-
-<img
- src="https://github-readme-activity-graph.vercel.app/graph?username=HuynhChiBao1109&theme=react-dark&hide_border=true&area=true"
- alt="GitHub Activity Graph"
-/>
+  <img
+    src="https://raw.githubusercontent.com/HuynhChiBao1109/HuynhChiBao1109/main/assets/languages.svg"
+    alt="Languages & Technologies"
+    width="900"
+  />
 
 </div>
 
