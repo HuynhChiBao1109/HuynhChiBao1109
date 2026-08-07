@@ -13,25 +13,35 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Languages
+      - name: Generate language statistics
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: HuynhChiBao1109
         run: |
+          mkdir -p assets
           python3 .github/scripts/generate_languages.py
 
-      - name: Commit changes
+      - name: Check generated file
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          echo "Generated files:"
+          ls -lah assets/
+          
+          echo ""
+          echo "SVG size:"
+          wc -c assets/languages.svg
+
+      - name: Commit language statistics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add assets/languages.svg
 
           if git diff --cached --quiet; then
-            echo "No changes"
+            echo "No changes detected."
           else
             git commit -m "chore: update language statistics"
             git push
