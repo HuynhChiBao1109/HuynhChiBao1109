@@ -34,10 +34,12 @@
 
 <br>
 
+<h3 align="center">💻 Languages & Technologies</h3>
+
 <div align="center">
 
   <img
-    src="./assets/languages.svg"
+    src="https://raw.githubusercontent.com/HuynhChiBao1109/HuynhChiBao1109/main/assets/languages.svg"
     alt="Languages & Technologies"
     width="900"
   />
