@@ -32,8 +32,6 @@
 
 <div align="center">
 
-  <h3>⚡ Keep Coding. Keep Building. Keep Growing. ⚡</h3>
-
 <img
  src="https://komarev.com/ghpvc/?username=HuynhChiBao1109&label=Profile%20Views&color=bd5fff&style=for-the-badge"
  alt="Profile Views"
@@ -61,6 +59,8 @@
 
 <div align="center">
 
-✨ <i>Turning ideas into code, and code into products.</i> ✨
+  <h3>⚡ Keep Coding. Keep Building. Keep Growing. ⚡</h3>
+
+<i>✨ Turning ideas into code, and code into products. ✨</i>
 
 </div>
