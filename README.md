@@ -1,30 +1,4 @@
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=HuynhChiBao1109&label=PROFILE%20VIEWS&style=for-the-badge" alt="Profile Views"/>
-
-<br><br>
-
-  <a href="https://github.com/HuynhChiBao1109">
-    <img src="https://img.shields.io/github/followers/HuynhChiBao1109?label=FOLLOWERS&style=for-the-badge&logo=github" alt="GitHub Followers"/>
-  </a>
-
-  <a href="https://github.com/HuynhChiBao1109?tab=repositories">
-    <img src="https://img.shields.io/github/stars/HuynhChiBao1109?label=STARS&style=for-the-badge&logo=github" alt="GitHub Stars"/>
-  </a>
-
-  <a href="https://github.com/HuynhChiBao1109?tab=overview">
-    <img src="https://img.shields.io/github/commit-activity/y/HuynhChiBao1109?label=ACTIVITY&style=for-the-badge&logo=github" alt="Commit Activity"/>
-  </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <h3>🔥 GitHub Activity</h3>
+<h3>🔥 GitHub Activity</h3>
 
 <img
  src="https://github-readme-activity-graph.vercel.app/graph?username=HuynhChiBao1109&theme=react-dark&hide_border=true&area=true"
