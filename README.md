@@ -46,19 +46,3 @@
   </a>
 
 </div>
-
-<br>
-
-<div align="center">
-
-  <h3>🚀 Keep Building</h3>
-
-  <p>
-    <i>Turning ideas into code, and code into products.</i>
-  </p>
-
-  <p>
-    <b>💻 Code • 🚀 Build • 🔥 Ship • 📈 Grow</b>
-  </p>
-
-</div>
