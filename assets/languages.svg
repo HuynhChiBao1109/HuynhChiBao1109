@@ -1,7 +1,7 @@
 <svg
   width="900"
-  height="286"
-  viewBox="0 0 900 286"
+  height="338"
+  viewBox="0 0 900 338"
   xmlns="http://www.w3.org/2000/svg"
 >
   <defs>
@@ -28,7 +28,7 @@
 
   <rect
     width="900"
-    height="286"
+    height="338"
     rx="20"
     fill="url(#bg)"
   />
@@ -77,14 +77,14 @@
     <rect
       x="190"
       y="100"
-      width="459.77"
+      width="354.29"
       height="18"
       rx="9"
       fill="url(#bar)"
     />
 
     <circle
-      cx="649.77"
+      cx="544.29"
       cy="109"
       r="5"
       fill="#f7df1e"
@@ -99,7 +99,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-weight="700"
     >
-      88.42%
+      68.13%
     </text>
     
     <text
@@ -125,14 +125,14 @@
     <rect
       x="190"
       y="152"
-      width="48.27"
+      width="154.39"
       height="18"
       rx="9"
       fill="url(#bar)"
     />
 
     <circle
-      cx="238.27"
+      cx="344.39"
       cy="161"
       r="5"
       fill="#3178c6"
@@ -147,7 +147,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-weight="700"
     >
-      9.28%
+      29.69%
     </text>
     
     <text
@@ -173,14 +173,14 @@
     <rect
       x="190"
       y="204"
-      width="11.95"
+      width="9.21"
       height="18"
       rx="9"
       fill="url(#bar)"
     />
 
     <circle
-      cx="201.95"
+      cx="199.21"
       cy="213"
       r="5"
       fill="#e34c26"
@@ -195,7 +195,55 @@
       font-family="Arial, Helvetica, sans-serif"
       font-weight="700"
     >
-      2.30%
+      1.77%
+    </text>
+    
+    <text
+      x="40"
+      y="273"
+      fill="#f0f6fc"
+      font-size="15"
+      font-family="Arial, Helvetica, sans-serif"
+      font-weight="600"
+    >
+      Dockerfile
+    </text>
+
+    <rect
+      x="190"
+      y="256"
+      width="520"
+      height="18"
+      rx="9"
+      fill="#21262d"
+    />
+
+    <rect
+      x="190"
+      y="256"
+      width="4.00"
+      height="18"
+      rx="9"
+      fill="url(#bar)"
+    />
+
+    <circle
+      cx="194.00"
+      cy="265"
+      r="5"
+      fill="#563d7c"
+      filter="url(#shadow)"
+    />
+
+    <text
+      x="750"
+      y="273"
+      fill="#ffffff"
+      font-size="15"
+      font-family="Arial, Helvetica, sans-serif"
+      font-weight="700"
+    >
+      0.40%
     </text>
     
 </svg>
