@@ -77,14 +77,14 @@
     <rect
       x="190"
       y="100"
-      width="382.88"
+      width="367.72"
       height="18"
       rx="9"
       fill="url(#bar)"
     />
 
     <circle
-      cx="572.88"
+      cx="557.72"
       cy="109"
       r="5"
       fill="#f7df1e"
@@ -99,7 +99,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-weight="700"
     >
-      73.63%
+      70.72%
     </text>
     
     <text
@@ -125,14 +125,14 @@
     <rect
       x="190"
       y="152"
-      width="70.64"
+      width="78.24"
       height="18"
       rx="9"
       fill="url(#bar)"
     />
 
     <circle
-      cx="260.64"
+      cx="268.24"
       cy="161"
       r="5"
       fill="#3178c6"
@@ -147,7 +147,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-weight="700"
     >
-      13.58%
+      15.05%
     </text>
     
     <text
@@ -173,14 +173,14 @@
     <rect
       x="190"
       y="204"
-      width="39.53"
+      width="36.87"
       height="18"
       rx="9"
       fill="url(#bar)"
     />
 
     <circle
-      cx="229.53"
+      cx="226.87"
       cy="213"
       r="5"
       fill="#e34c26"
@@ -195,7 +195,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-weight="700"
     >
-      7.60%
+      7.09%
     </text>
     
     <text
@@ -221,14 +221,14 @@
     <rect
       x="190"
       y="256"
-      width="25.74"
+      width="35.98"
       height="18"
       rx="9"
       fill="url(#bar)"
     />
 
     <circle
-      cx="215.74"
+      cx="225.98"
       cy="265"
       r="5"
       fill="#563d7c"
@@ -243,7 +243,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-weight="700"
     >
-      4.95%
+      6.92%
     </text>
     
     <text
@@ -291,7 +291,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-weight="700"
     >
-      0.16%
+      0.15%
     </text>
     
     <text
