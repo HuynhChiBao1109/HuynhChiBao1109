@@ -51,7 +51,7 @@
     font-size="13"
     font-family="Arial, Helvetica, sans-serif"
   >
-    Based on code across 10 repositories
+    Based on code across 11 repositories
   </text>
 
     <text
@@ -77,14 +77,14 @@
     <rect
       x="190"
       y="100"
-      width="374.16"
+      width="371.09"
       height="18"
       rx="9"
       fill="url(#bar)"
     />
 
     <circle
-      cx="564.16"
+      cx="561.09"
       cy="109"
       r="5"
       fill="#f7df1e"
@@ -99,7 +99,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-weight="700"
     >
-      71.95%
+      71.36%
     </text>
     
     <text
@@ -125,14 +125,14 @@
     <rect
       x="190"
       y="152"
-      width="85.38"
+      width="88.60"
       height="18"
       rx="9"
       fill="url(#bar)"
     />
 
     <circle
-      cx="275.38"
+      cx="278.60"
       cy="161"
       r="5"
       fill="#3178c6"
@@ -147,7 +147,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-weight="700"
     >
-      16.42%
+      17.04%
     </text>
     
     <text
@@ -173,14 +173,14 @@
     <rect
       x="190"
       y="204"
-      width="45.39"
+      width="45.18"
       height="18"
       rx="9"
       fill="url(#bar)"
     />
 
     <circle
-      cx="235.39"
+      cx="235.18"
       cy="213"
       r="5"
       fill="#e34c26"
@@ -195,7 +195,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-weight="700"
     >
-      8.73%
+      8.69%
     </text>
     
     <text
@@ -221,14 +221,14 @@
     <rect
       x="190"
       y="256"
-      width="13.18"
+      width="13.12"
       height="18"
       rx="9"
       fill="url(#bar)"
     />
 
     <circle
-      cx="203.18"
+      cx="203.12"
       cy="265"
       r="5"
       fill="#563d7c"
@@ -243,7 +243,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-weight="700"
     >
-      2.53%
+      2.52%
     </text>
     
     <text
@@ -302,7 +302,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-weight="600"
     >
-      Shell
+      HTML
     </text>
 
     <rect
@@ -339,7 +339,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-weight="700"
     >
-      0.08%
+      0.09%
     </text>
     
     <text
@@ -350,7 +350,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-weight="600"
     >
-      HTML
+      Shell
     </text>
 
     <rect
@@ -387,7 +387,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-weight="700"
     >
-      0.07%
+      0.08%
     </text>
     
 </svg>
