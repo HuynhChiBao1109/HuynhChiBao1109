@@ -1,7 +1,7 @@
 <svg
   width="900"
-  height="494"
-  viewBox="0 0 900 494"
+  height="546"
+  viewBox="0 0 900 546"
   xmlns="http://www.w3.org/2000/svg"
 >
   <defs>
@@ -28,7 +28,7 @@
 
   <rect
     width="900"
-    height="494"
+    height="546"
     rx="20"
     fill="url(#bg)"
   />
@@ -51,7 +51,7 @@
     font-size="13"
     font-family="Arial, Helvetica, sans-serif"
   >
-    Based on code across 11 repositories
+    Based on code across 12 repositories
   </text>
 
     <text
@@ -77,14 +77,14 @@
     <rect
       x="190"
       y="100"
-      width="371.09"
+      width="359.03"
       height="18"
       rx="9"
       fill="url(#bar)"
     />
 
     <circle
-      cx="561.09"
+      cx="549.03"
       cy="109"
       r="5"
       fill="#f7df1e"
@@ -99,7 +99,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-weight="700"
     >
-      71.36%
+      69.04%
     </text>
     
     <text
@@ -125,14 +125,14 @@
     <rect
       x="190"
       y="152"
-      width="88.60"
+      width="79.96"
       height="18"
       rx="9"
       fill="url(#bar)"
     />
 
     <circle
-      cx="278.60"
+      cx="269.96"
       cy="161"
       r="5"
       fill="#3178c6"
@@ -147,7 +147,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-weight="700"
     >
-      17.04%
+      15.38%
     </text>
     
     <text
@@ -173,14 +173,14 @@
     <rect
       x="190"
       y="204"
-      width="45.18"
+      width="41.61"
       height="18"
       rx="9"
       fill="url(#bar)"
     />
 
     <circle
-      cx="235.18"
+      cx="231.61"
       cy="213"
       r="5"
       fill="#e34c26"
@@ -195,7 +195,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-weight="700"
     >
-      8.69%
+      8.00%
     </text>
     
     <text
@@ -221,14 +221,14 @@
     <rect
       x="190"
       y="256"
-      width="13.12"
+      width="37.49"
       height="18"
       rx="9"
       fill="url(#bar)"
     />
 
     <circle
-      cx="203.12"
+      cx="227.49"
       cy="265"
       r="5"
       fill="#563d7c"
@@ -243,7 +243,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-weight="700"
     >
-      2.52%
+      7.21%
     </text>
     
     <text
@@ -291,7 +291,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-weight="700"
     >
-      0.22%
+      0.20%
     </text>
     
     <text
@@ -339,7 +339,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-weight="700"
     >
-      0.09%
+      0.08%
     </text>
     
     <text
@@ -387,7 +387,55 @@
       font-family="Arial, Helvetica, sans-serif"
       font-weight="700"
     >
-      0.08%
+      0.07%
+    </text>
+    
+    <text
+      x="40"
+      y="481"
+      fill="#f0f6fc"
+      font-size="15"
+      font-family="Arial, Helvetica, sans-serif"
+      font-weight="600"
+    >
+      PowerShell
+    </text>
+
+    <rect
+      x="190"
+      y="464"
+      width="520"
+      height="18"
+      rx="9"
+      fill="#21262d"
+    />
+
+    <rect
+      x="190"
+      y="464"
+      width="4.00"
+      height="18"
+      rx="9"
+      fill="url(#bar)"
+    />
+
+    <circle
+      cx="194.00"
+      cy="473"
+      r="5"
+      fill="#dea584"
+      filter="url(#shadow)"
+    />
+
+    <text
+      x="750"
+      y="481"
+      fill="#ffffff"
+      font-size="15"
+      font-family="Arial, Helvetica, sans-serif"
+      font-weight="700"
+    >
+      0.02%
     </text>
     
 </svg>
