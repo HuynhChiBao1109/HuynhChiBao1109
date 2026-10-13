@@ -26,15 +26,3 @@
   <img src="https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge&logo=haproxy&logoColor=white" alt="HAProxy"/>
 
 </div>
-
-<br>
-
-<div align="center">
-
-  <h3>⚡ Developer Activity</h3>
-
-  <a href="https://github.com/HuynhChiBao1109">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuynhChiBao1109&bg_color=141321&color=bd5fff&line=ff69b4&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-  </a>
-
-</div>
