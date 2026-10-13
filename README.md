@@ -1,7 +1,3 @@
-<h3>🔥 GitHub Activity</h3>
-
-<br>
-
 <div align="center">
 
   <h3>💻 Languages & Technologies</h3>
